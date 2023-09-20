@@ -1,3 +1,2 @@
-# CheckersGame
-# CheckersGame
+
 # data-algorithms
